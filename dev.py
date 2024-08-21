@@ -6,6 +6,7 @@ def add_two_numbers(a: float, b: float) -> float:
     :param b: The second number
     :return: The sum of a and b
     """
+    # return a + b
     return a + b
 
 # Example usage
